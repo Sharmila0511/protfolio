@@ -16,8 +16,4 @@ I am a web developer with experience in HTML, CSS, JavaScript, Java, and MySQL. 
 - HTML5, CSS3, JavaScript
 - Responsive Web Design
 
-📸 Homepage Preview  
-![Homepage Screenshot](files/homepage.PNG)
 
- 📸 Projects Section Preview  
-![Projects Screenshot](Portfolio/files/projects.PNG)  
